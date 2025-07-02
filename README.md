@@ -14,6 +14,10 @@ Ce projet propose un système d'analyse météo basé sur l'API publique Open-Me
 
 ![Aperçu du graphique météo](graph.png)
 
+## Exemple de données météo
+
+![Exemple de données météo](meteo.png)
+
 ## Installation
 
 ```
