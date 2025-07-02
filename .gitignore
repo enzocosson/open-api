@@ -17,10 +17,6 @@ ENV/
 # Local config
 .env
 
-# Data and generated files
-meteo.json
-graph.png
-
 # Logs
 *.log
 *.tmp
