@@ -1,0 +1,33 @@
+# Python cache and compiled files
+__pycache__/
+.pytest_cache/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Test and coverage outputs
+.coverage
+
+# Local config
+.env
+
+# Data and generated files
+meteo.json
+graph.png
+
+# Logs
+*.log
+*.tmp
+*.temp
+
+# Dossiers à ne pas envoyer
+__pycache__/
+.pytest_cache/
+.venv/
+tests/__pycache__/
